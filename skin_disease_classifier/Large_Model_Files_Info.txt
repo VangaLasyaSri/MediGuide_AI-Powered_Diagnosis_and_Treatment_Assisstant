@@ -9,7 +9,7 @@ The following model files are not included in this repository because they excee
 You can download them from the links below:
 
 - **best_model.keras**  
-  [Download Link](https://drive.google.com/file/d/1Lw_iFzc9DPsUbvi1mi1pEDJyBr9QfShp/view?usp=sharing)
+  [Download Link](https://drive.google.com/file/d/1Lw_iFzc9DPsUbvi1mi1pEDJyBr9QfShp/view?usp=sharing/)
 
 - **skin_disease_model.h5**  
   [Download Link](https://drive.google.com/file/d/1xktdvwA42M3abhEIzjUSp1JLbmFVdyR-/view?usp=sharing)
